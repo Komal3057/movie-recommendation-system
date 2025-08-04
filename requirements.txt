@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+nltk
+
+These are the core libraries notebook depends on. You can install them using:
+bash
+    pip install -r requirements.txt
