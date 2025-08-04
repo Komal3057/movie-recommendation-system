@@ -1,0 +1,14 @@
+## 📚 Dataset Sources
+
+- **TMDb 5000 Movie Metadata** (movie-wise metadata for content-based filtering):  
+  https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+or 
+
+- **MovieLens 100K dataset** (benchmark collaborative filtering):  
+  https://grouplens.org/datasets/movielens/100k/  
+
+- **MovieLens Full / Latest dataset** (~33M ratings):  
+  https://grouplens.org/datasets/movielens/latest/  
+
+  
